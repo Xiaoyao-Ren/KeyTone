@@ -1,0 +1,222 @@
+[
+  {
+    "id": "eg-crystal-purple",
+    "upstream_commit": "16afce45bd7cf12be399e2d1a8d20f221067f534",
+    "source": "https://github.com/hainguyents13/mechvibes/tree/16afce45bd7cf12be399e2d1a8d20f221067f534/soundpacks/keyboard/eg-crystal-purple",
+    "license": "MIT",
+    "audio_file": "purple.ogg",
+    "source_sample_rate": 48000,
+    "source_channels": 2,
+    "keys": [
+      "KeyF",
+      "KeyJ",
+      "KeyD",
+      "KeyK",
+      "Tab",
+      "CapsLock",
+      "ShiftLeft",
+      "ShiftRight",
+      "Backspace",
+      "Enter",
+      "Space"
+    ]
+  },
+  {
+    "id": "topre-purple-hybrid-pbt",
+    "upstream_commit": "16afce45bd7cf12be399e2d1a8d20f221067f534",
+    "source": "https://github.com/hainguyents13/mechvibes/tree/16afce45bd7cf12be399e2d1a8d20f221067f534/soundpacks/keyboard/topre-purple-hybrid-pbt",
+    "license": "MIT",
+    "audio_file": "sound.ogg",
+    "source_sample_rate": 44100,
+    "source_channels": 1,
+    "keys": [
+      "KeyF",
+      "KeyJ",
+      "KeyD",
+      "KeyK",
+      "Tab",
+      "CapsLock",
+      "ShiftLeft",
+      "ShiftRight",
+      "Backspace",
+      "Enter",
+      "Space"
+    ]
+  },
+  {
+    "id": "eg-oreo",
+    "upstream_commit": "16afce45bd7cf12be399e2d1a8d20f221067f534",
+    "source": "https://github.com/hainguyents13/mechvibes/tree/16afce45bd7cf12be399e2d1a8d20f221067f534/soundpacks/keyboard/eg-oreo",
+    "license": "MIT",
+    "audio_file": "oreo.ogg",
+    "source_sample_rate": 48000,
+    "source_channels": 2,
+    "keys": [
+      "KeyF",
+      "KeyJ",
+      "KeyD",
+      "KeyK",
+      "Tab",
+      "CapsLock",
+      "ShiftLeft",
+      "ShiftRight",
+      "Backspace",
+      "Enter",
+      "Space"
+    ]
+  },
+  {
+    "id": "cherrymx-black-pbt",
+    "upstream_commit": "16afce45bd7cf12be399e2d1a8d20f221067f534",
+    "source": "https://github.com/hainguyents13/mechvibes/tree/16afce45bd7cf12be399e2d1a8d20f221067f534/soundpacks/keyboard/cherrymx-black-pbt",
+    "license": "MIT",
+    "audio_file": "sound.ogg",
+    "source_sample_rate": 44100,
+    "source_channels": 2,
+    "keys": [
+      "KeyF",
+      "KeyJ",
+      "KeyD",
+      "KeyK",
+      "Tab",
+      "CapsLock",
+      "ShiftLeft",
+      "ShiftRight",
+      "Backspace",
+      "Enter",
+      "Space"
+    ]
+  },
+  {
+    "id": "cherrymx-red-abs",
+    "upstream_commit": "16afce45bd7cf12be399e2d1a8d20f221067f534",
+    "source": "https://github.com/hainguyents13/mechvibes/tree/16afce45bd7cf12be399e2d1a8d20f221067f534/soundpacks/keyboard/cherrymx-red-abs",
+    "license": "MIT",
+    "audio_file": "sound.ogg",
+    "source_sample_rate": 44100,
+    "source_channels": 2,
+    "keys": [
+      "KeyF",
+      "KeyJ",
+      "KeyD",
+      "KeyK",
+      "Tab",
+      "CapsLock",
+      "ShiftLeft",
+      "ShiftRight",
+      "Backspace",
+      "Enter",
+      "Space"
+    ]
+  },
+  {
+    "id": "cherrymx-brown-pbt",
+    "upstream_commit": "16afce45bd7cf12be399e2d1a8d20f221067f534",
+    "source": "https://github.com/hainguyents13/mechvibes/tree/16afce45bd7cf12be399e2d1a8d20f221067f534/soundpacks/keyboard/cherrymx-brown-pbt",
+    "license": "MIT",
+    "audio_file": "sound.ogg",
+    "source_sample_rate": 44100,
+    "source_channels": 2,
+    "keys": [
+      "KeyF",
+      "KeyJ",
+      "KeyD",
+      "KeyK",
+      "Tab",
+      "CapsLock",
+      "ShiftLeft",
+      "ShiftRight",
+      "Backspace",
+      "Enter",
+      "Space"
+    ]
+  },
+  {
+    "id": "cherrymx-black-abs",
+    "upstream_commit": "16afce45bd7cf12be399e2d1a8d20f221067f534",
+    "source": "https://github.com/hainguyents13/mechvibes/tree/16afce45bd7cf12be399e2d1a8d20f221067f534/soundpacks/keyboard/cherrymx-black-abs",
+    "license": "MIT",
+    "audio_file": "sound.ogg",
+    "source_sample_rate": 44100,
+    "source_channels": 2,
+    "keys": [
+      "KeyF",
+      "KeyJ",
+      "KeyD",
+      "KeyK",
+      "Tab",
+      "CapsLock",
+      "ShiftLeft",
+      "ShiftRight",
+      "Backspace",
+      "Enter",
+      "Space"
+    ]
+  },
+  {
+    "id": "cherrymx-brown-abs",
+    "upstream_commit": "16afce45bd7cf12be399e2d1a8d20f221067f534",
+    "source": "https://github.com/hainguyents13/mechvibes/tree/16afce45bd7cf12be399e2d1a8d20f221067f534/soundpacks/keyboard/cherrymx-brown-abs",
+    "license": "MIT",
+    "audio_file": "sound.ogg",
+    "source_sample_rate": 44100,
+    "source_channels": 2,
+    "keys": [
+      "KeyF",
+      "KeyJ",
+      "KeyD",
+      "KeyK",
+      "Tab",
+      "CapsLock",
+      "ShiftLeft",
+      "ShiftRight",
+      "Backspace",
+      "Enter",
+      "Space"
+    ]
+  },
+  {
+    "id": "cherrymx-blue-pbt",
+    "upstream_commit": "16afce45bd7cf12be399e2d1a8d20f221067f534",
+    "source": "https://github.com/hainguyents13/mechvibes/tree/16afce45bd7cf12be399e2d1a8d20f221067f534/soundpacks/keyboard/cherrymx-blue-pbt",
+    "license": "MIT",
+    "audio_file": "sound.ogg",
+    "source_sample_rate": 44100,
+    "source_channels": 2,
+    "keys": [
+      "KeyF",
+      "KeyJ",
+      "KeyD",
+      "KeyK",
+      "Tab",
+      "CapsLock",
+      "ShiftLeft",
+      "ShiftRight",
+      "Backspace",
+      "Enter",
+      "Space"
+    ]
+  },
+  {
+    "id": "cherrymx-blue-abs",
+    "upstream_commit": "16afce45bd7cf12be399e2d1a8d20f221067f534",
+    "source": "https://github.com/hainguyents13/mechvibes/tree/16afce45bd7cf12be399e2d1a8d20f221067f534/soundpacks/keyboard/cherrymx-blue-abs",
+    "license": "MIT",
+    "audio_file": "sound.ogg",
+    "source_sample_rate": 44100,
+    "source_channels": 2,
+    "keys": [
+      "KeyF",
+      "KeyJ",
+      "KeyD",
+      "KeyK",
+      "Tab",
+      "CapsLock",
+      "ShiftLeft",
+      "ShiftRight",
+      "Backspace",
+      "Enter",
+      "Space"
+    ]
+  }
+]

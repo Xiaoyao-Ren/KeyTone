@@ -1,0 +1,17 @@
+.DS_Store
+.build/
+dist/
+.venv/
+__pycache__/
+*.o
+*.app/
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.keychain
+*.keychain-db
+keychain-password
+identity.json
