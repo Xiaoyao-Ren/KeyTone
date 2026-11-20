@@ -1,5 +1,7 @@
 # KeyTone
 
+> **已搬到 [Xiaoyao-Ren/toys](https://github.com/Xiaoyao-Ren/toys/tree/main/keytone)。** 这个仓库已归档，不再更新。
+
 **一个小巧的 macOS 菜单栏软件，让你的键盘敲出机械键盘的声音。**
 
 [English](README.md) · 简体中文

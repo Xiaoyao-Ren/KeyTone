@@ -1,5 +1,7 @@
 # KeyTone
 
+> **Moved to [Xiaoyao-Ren/toys](https://github.com/Xiaoyao-Ren/toys/tree/main/keytone).** This repository is archived and no longer updated.
+
 **A tiny macOS menu bar app that gives your keyboard the sound of a mechanical keyboard.**
 
 English · [简体中文](README.zh-CN.md)
